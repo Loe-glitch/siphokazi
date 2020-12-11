@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(to bottom,pink,purple,aqua)
+}
+
+h1{
+    color: springgreen;
+}
+
+p{
+    font-size: 15px;
+    background: lavender;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
